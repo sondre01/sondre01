@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://capsule-render.github.io/page?type=waving&color=auto&height=250&section=header&text=Khin%20Andrei%20Gamboa&fontSize=56&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner" />
   
   <h3>🚀 Bridging the Gap Between Hardware and Intelligence</h3>
@@ -56,3 +56,8 @@
 
 <br/>
 <hr/>
+](https://camo.githubusercontent.com/4d29d97009544204ff8d9a47b375ec08a54957dbf0ded0f2432166290506d1da/68747470733a2f2f63617073756c652d72656e6465722e6769746875622e696f2f706167653f747970653d776176696e6726636f6c6f723d6175746f266865696768743d3235302673656374696f6e3d68656164657226746578743d4b68696e253230416e6472656925323047616d626f6126666f6e7453697a653d353626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d3335
+
+i doest have picture, and can you fix it, make it more entertaining and will fit with my personaluty.
+
+for mainly developing i am an aspiring software engineering mainly web developing. )
