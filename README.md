@@ -1,7 +1,7 @@
-[<div align="center">
-  <img src="https://capsule-render.github.io/page?type=waving&color=auto&height=250&section=header&text=Khin%20Andrei%20Gamboa&fontSize=56&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=500&color=61AFEF&center=true&vCenter=true&width=700&height=100&lines=%3C%20KHIN%20ANDREI%20GAMBOA%20%2F%3E;Aspiring+Software+Engineer;Building+for+the+Modern+Web" alt="Header Typing Effect" />
   
-  <h3>🚀 Bridging the Gap Between Hardware and Intelligence</h3>
+  <h3>✨ Crafting interactive experiences, one line of code at a time.</h3>
   
   <p align="center">
     <a href="https://github.com/sondre01"><img src="https://img.shields.io/github/followers/sondre01?logo=github&style=for-the-badge&color=24292e" alt="Followers"></a>
@@ -14,50 +14,41 @@
 <table align="center" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>🧐 About Me</h3>
-      <p>I am a senior <strong>Computer Engineering student</strong> at <em>Rizal Technological University</em>, passionately specializing in building advanced hardware prototypes integrated with Artificial Intelligence and IoT ecosystems.</p>
-      <p>My mission is to engineer practical, real-world solutions for healthcare and automation challenges using smart embedded systems.</p>
+      <h3>👋 Welcome to My Digital Sandbox!</h3>
+      <p>I am a senior <strong>Computer Engineering student</strong> at <em>Rizal Technological University</em>, bridging the analytical mind of an engineer with the creative soul of a <strong>Web Developer</strong>.</p>
+      <p>I love designing sleek user interfaces, architecting clean codebases, and exploring full-stack ecosystems. If it runs in a browser or handles data, I want to build it!</p>
       
-      <h4>🎯 Current Focus</h4>
+      <h4>🚀 What I'm Up To</h4>
       <ul>
-        <li>🔬 <strong>Developing:</strong> Four-in-One Vital Sign Sensor with AI edge processing.</li>
-        <li>🧠 <strong>Refining:</strong> Deep learning architectures & YOLOv8 Object Detection optimizations.</li>
-        <li>💼 <strong>Seeking:</strong> Internship / OJT opportunities in Embedded Systems & IoT.</li>
+        <li>🛠️ <strong>Building:</strong> Modern web apps featuring interactive, responsive layouts.</li>
+        <li>🧠 <strong>Learning:</strong> Advanced frontend frameworks & backend optimization techniques.</li>
+        <li>💼 <strong>Looking For:</strong> Web Development / Software Engineering Internship & OJT roles.</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
-      <h3>⚡ Quick Overview</h3>
-      <a href="https://github.com/sondre01">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=380&lines=Computer+Engineering+Student;IoT+%26+Embedded+Systems+Dev;AI+%26+Computer+Vision+Enthusiast;Building+the+Future+of+Hardware" alt="Typing Effect" />
-      </a>
+      <h3>⚡ Console Logs</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=380&lines=const+dev+%3D+['Frontend',+'Backend'];while+(alive)+%7B+code();+%7D;console.log('Hello+World!');Coffee_Intake+%3D+Infinity;" alt="Typing Effect" />
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=sondre01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="90%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sondre01&show_icons=true&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h3 align="center">🛠 Tech Stack & Ecosystem</h3>
+<h3 align="center">🛠️ My Stack & Tools</h3>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <br/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/IoT-E05C2B?style=for-the-badge&logo=internet-of-things&logoColor=white" alt="IoT" />
-  <br/>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 <br/>
 <hr/>
-](https://camo.githubusercontent.com/4d29d97009544204ff8d9a47b375ec08a54957dbf0ded0f2432166290506d1da/68747470733a2f2f63617073756c652d72656e6465722e6769746875622e696f2f706167653f747970653d776176696e6726636f6c6f723d6175746f266865696768743d3235302673656374696f6e3d68656164657226746578743d4b68696e253230416e6472656925323047616d626f6126666f6e7453697a653d353626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d3335
-
-i doest have picture, and can you fix it, make it more entertaining and will fit with my personaluty.
-
-for mainly developing i am an aspiring software engineering mainly web developing. )
