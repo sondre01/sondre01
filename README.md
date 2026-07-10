@@ -14,34 +14,34 @@
 
 ---
 
-### 🌌 System & Core Architecture
+### System & Core Architecture
 
 I specialize in architecting resilient data pipelines, optimizing relational database structures, and building reliable backend layers connecting physical hardware edge-nodes directly to cloud ecosystems.
 
-* 📈 **Core Focus:** Data Engineering, Schema Design, ETL/ELT, and Scripting Automation.
-* 📍 **Location:** Pasig City, Philippines
+* **Core Focus:** Data Engineering, Schema Design, ETL/ELT, and Scripting Automation.
+* **Location:** Pasig City, Philippines
 
 ---
 
-### 🛠️ The Technical Ecosystem
+### The Technical Ecosystem
 *Sleek, interactive dark-mode icons grouped by architectural layers with dynamic hover animations.*
 
-#### 🗄️ Relational Infrastructure & Cloud Warehousing
-<p align="left">
+#### Relational Infrastructure & Cloud Warehousing
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,snowflake&theme=dark" alt="Databases Stack" />
   </a>
 </p>
 
-#### 💻 System Languages & Scripting Engines
-<p align="left">
+#### System Languages & Scripting Engines
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,nodejs,js,java,cs,bash&theme=dark" alt="Languages Stack" />
   </a>
 </p>
 
-#### 🧰 Platforms, DevOps & Routing Pipelines
-<p align="left">
+#### Platforms, DevOps & Routing Pipelines
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,postman,vercel,docker,linux,githubactions&theme=dark" alt="DevOps Stack" />
   </a>
@@ -49,7 +49,7 @@ I specialize in architecting resilient data pipelines, optimizing relational dat
 
 ---
 
-### 🚀 Production Highlights
+### Production Highlights
 
 #### **Vital Sign Sensor Kiosk with AI & IoT (Capstone Thesis)**
 * **Database Optimization:** Architected backend relational database schemas to securely ingest real-time telemetry data streams from 4 embedded sensors, minimizing latency under high data load.
@@ -63,20 +63,15 @@ I specialize in architecting resilient data pipelines, optimizing relational dat
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-* 🎓 **Associate Data Engineer in SQL** (*DataCamp*) — Relational database infrastructure design, multi-table analytics pipelines, Snowflake, and PostgreSQL.
-* 🤖 **Data Fundamentals** (*IBM SkillBuild / TESDA*) — Data lifecycle management and dashboarding inside IBM Watson Studio.
-* 🐍 **Python Essentials 1** (*Cisco*) — Automation, logical control flows, and structural data manipulation.
+* **Associate Data Engineer in SQL** (*DataCamp*) — Relational database infrastructure design, multi-table analytics pipelines, Snowflake, and PostgreSQL.
+* **Data Fundamentals** (*IBM SkillBuild / TESDA*) — Data lifecycle management and dashboarding inside IBM Watson Studio.
+* **Python Essentials 1** (*Cisco*) — Automation, logical control flows, and structural data manipulation.
 
 ---
 
-### 📊 System Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=sondre01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=sondre01&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
-</div>
+### System Analytics
 
 <br/>
 
@@ -85,6 +80,3 @@ I specialize in architecting resilient data pipelines, optimizing relational dat
 </div>
 
 ---
-
-<div align="center">
-  <img src="
