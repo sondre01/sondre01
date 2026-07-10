@@ -28,7 +28,7 @@ From migrating enterprise tracking systems to deploying predictive AI medical an
 #### 🗄️ Data Engineering & Architecture
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,snowflake" alt="Data Engineering Stack" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,snowflake" alt="Data Engineering Stack" />
   </a>
 </p>
 
