@@ -82,21 +82,21 @@ From migrating enterprise tracking systems to deploying predictive AI medical an
 <br/>
 
 ### 🏆 Gamified Milestones
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sondre01&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=false" width="100%" alt="GitHub Trophies" />
-</p>
+</div>
 
 <br/>
 
 ### 📊 Performance Analytics & Ecosystem
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sondre01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondre01&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+</div>
 
 <br/>
 
 ### 🔥 Contribution Streak
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sondre01&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-</p>
+</div>
