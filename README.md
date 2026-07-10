@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=1f2335&background=181825&height=220&section=header&text=%3C%20KHIN%20ANDREI%20GAMBOA%20%2F%3E&fontSize=38&fontColor=61AFEF&animation=twinkling&desc=Data%20%26%20Computer%20Engineer%20%7C%20Backend%20Enthusiast&descSize=16&descAlignY=65&descAlign=50" alt="Premium Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=61AFEF&center=true&vCenter=true&width=750&height=110&lines=khinandrei.init()%3B;Ingesting+Telemetry+Streams...;Transforming+Relational+Schemas...;Deploying+Predictive+AI...;%3C+KHIN+ANDREI+GAMBOA+%2F%3E" alt="Advanced Terminal Typewriter" />
   
   <h3>✨ Bridging Hardware Telemetry, Relational Databases, and Predictive AI.</h3>
   
@@ -81,17 +81,10 @@ From migrating enterprise tracking systems to deploying predictive AI medical an
 
 <br/>
 
-### 🏆 Gamified Milestones
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sondre01&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=false" width="100%" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 ### 📊 Performance Analytics & Ecosystem
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sondre01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondre01&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=sondre01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=sondre01&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
