@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=500&color=61AFEF&center=true&vCenter=true&width=700&height=100&lines=%3C%20KHIN%20ANDREI%20GAMBOA%20%2F%3E;Data+&amp;+Computer+Engineer;Backend+&amp;+Data+Pipeline+Enthusiast" alt="Header Typing Effect" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=1f2335&background=181825&height=220&section=header&text=%3C%20KHIN%20ANDREI%20GAMBOA%20%2F%3E&fontSize=38&fontColor=61AFEF&animation=twinkling&desc=Data%20%26%20Computer%20Engineer%20%7C%20Backend%20Enthusiast&descSize=16&descAlignY=65&descAlign=50" alt="Premium Header Banner" />
   
   <h3>✨ Bridging Hardware Telemetry, Relational Databases, and Predictive AI.</h3>
   
@@ -77,6 +77,13 @@ From migrating enterprise tracking systems to deploying predictive AI medical an
 ### ⚡ Console Logs
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=500&height=50&lines=while+(alive)+%7B+ingest();+transform();+load();+%7D;console.log('Data+Pipeline+Secure!');" alt="Typing Effect" />
+</div>
+
+<br/>
+
+### 🏆 Gamified Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sondre01&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 <br/>
