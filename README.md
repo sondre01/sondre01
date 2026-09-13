@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=61AFEF&center=true&vCenter=true&width=700&height=70&lines=%3C+KHIN+ANDREI+GAMBOA+%2F%3E;Building+Responsive+UIs...;Architecting+Data+Pipelines...;Optimizing+Relational+Schemas...;" alt="Terminal Typewriter" />
+  <h1 align="center">&lt; KHIN ANDREI GAMBOA /&gt;</h1>
 
   <p align="center">
     <strong>Computer Engineering Graduate @ RTU and Aspiring Data Specialist</strong> <br /> Software Development | Data Analysis & Engineering | System Infrastructure
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/khinandreigamboa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:gamboa.khinandrei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/sondre01"><img src="https://img.shields.io/github/followers/sondre01?label=Followers&style=for-the-badge&color=24292e" alt="Followers" /></a>
-  </p>
+  <a href="https://linkedin.com/in/khinandreigamboa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gamboa.khinandrei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://facebook.com/khinandreigamboa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/khinandreigamboa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
 </div>
 
 ---
