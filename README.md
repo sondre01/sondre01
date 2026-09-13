@@ -2,7 +2,7 @@
   <h1 align="center">&lt; KHIN ANDREI GAMBOA /&gt;</h1>
 
   <p align="center">
-    <strong>Computer Engineering Graduate @ RTU and Aspiring Data Specialist</strong> <br /> Software Development | Data Analysis & Engineering | System Infrastructure
+    <strong>Computer Engineering Graduate and Aspiring Data Specialist</strong> <br /> Software Development | Data Analysis & Engineering | System Infrastructure
   </p>
 
   <p align="center">
