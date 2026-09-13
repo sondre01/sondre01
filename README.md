@@ -51,26 +51,26 @@ I specialize in designing intuitive user interfaces, architecting resilient data
 
 ### Production Highlights
 
-#### **Four-in-One Vital Sign Sensor Kiosk with AI & IoT (Capstone Project)**[cite: 1]
-* **System Design & UI/UX Development:** Authored full-stack architectural blueprints and built responsive UI interfaces in React.js[cite: 1].
-* **Backend Architecture:** Engineered a 3-tier backend service using Python (Flask) and MySQL[cite: 1].
-* **Pipeline Integration:** Built RESTful APIs and serial data pipelines to synchronize real-time telemetry across 5 biomedical sensors with sub-second response times[cite: 1].
-* **AI Modeling:** Designed a multi-agent risk assessment engine using Pandas and XGBoost[cite: 1], cross-referencing inputs with YOLOv11 computer vision models to automate pre-measurement compliance and physiological anomaly detection[cite: 1].
-* **DevOps Validation:** Implemented secure remote access via Tailscale mesh VPN and validated endpoints using PyTest under ISO/IEC 25010 standards[cite: 1].
+#### **Four-in-One Vital Sign Sensor Kiosk with AI & IoT (Capstone Project)**
+* **System Design & UI/UX Development:** Authored full-stack architectural blueprints and built responsive UI interfaces in React.js.
+* **Backend Architecture:** Engineered a 3-tier backend service using Python (Flask) and MySQL.
+* **Pipeline Integration:** Built RESTful APIs and serial data pipelines to synchronize real-time telemetry across 5 biomedical sensors with sub-second response times.
+* **AI Modeling:** Designed a multi-agent risk assessment engine using Pandas and XGBoost, cross-referencing inputs with YOLOv11 computer vision models to automate pre-measurement compliance and physiological anomaly detection.
+* **DevOps Validation:** Implemented secure remote access via Tailscale mesh VPN and validated endpoints using PyTest under ISO/IEC 25010 standards.
 
-#### **IT Administrator and Operation Intern (@ Staff Domain)**[cite: 1]
-* **Database Migration & Asset Architecture:** Spearheaded the transition from legacy spreadsheets to a centralized ITMS database managing 20,000+ assets[cite: 1]. This initiative enforced schema validation and cut onboarding provisioning times by 80%[cite: 1].
-* **Systems QA & DevOps:** Executed functional QA testing and bug verification for Snipe-IT[cite: 1], collaborating to track defect lifecycles in Jira to enhance platform stability[cite: 1].
-* **Process Automation:** Developed automation scripts using PowerShell and Command Prompt to streamline workstation diagnostic routines and remote system configurations[cite: 1].
+#### **IT Administrator and Operation Intern (@ Staff Domain)**
+* **Database Migration & Asset Architecture:** Spearheaded the transition from legacy spreadsheets to a centralized ITMS database managing 20,000+ assets. This initiative enforced schema validation and cut onboarding provisioning times by 80%.
+* **Systems QA & DevOps:** Executed functional QA testing and bug verification for Snipe-IT, collaborating to track defect lifecycles in Jira to enhance platform stability.
+* **Process Automation:** Developed automation scripts using PowerShell and Command Prompt to streamline workstation diagnostic routines and remote system configurations.
 
 ---
 
 ### Certifications
 
-* **Associate Data Engineer in SQL** (*DataCamp*) — Relational database design, Star Schema architecture, Snowflake data warehousing, indexing, and scalable ETL pipelines[cite: 1].
-* **Associate Data Analyst in SQL** (*DataCamp*) — Advanced PostgreSQL querying, window functions, and analytics transformation[cite: 1].
-* **Data Fundamentals** (*IBM SkillsBuild*) — Enterprise data lifecycles, database architectures, data hygiene/cleansing protocols, and predictive analytics reporting[cite: 1].
-* **Python Essentials 1** (*Cisco Networking Academy*) — Procedural logic, modular functions, complex collections, control algorithms, and exception handling routines[cite: 1].
+* **Associate Data Engineer in SQL** (*DataCamp*) — Relational database design, Star Schema architecture, Snowflake data warehousing, indexing, and scalable ETL pipelines.
+* **Associate Data Analyst in SQL** (*DataCamp*) — Advanced PostgreSQL querying, window functions, and analytics transformation.
+* **Data Fundamentals** (*IBM SkillsBuild*) — Enterprise data lifecycles, database architectures, data hygiene/cleansing protocols, and predictive analytics reporting.
+* **Python Essentials 1** (*Cisco Networking Academy*) — Procedural logic, modular functions, complex collections, control algorithms, and exception handling routines.
 
 ---
 
