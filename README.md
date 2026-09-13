@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=61AFEF&center=true&vCenter=true&width=700&height=70&lines=%3C+KHIN+ANDREI+GAMBOA+%2F%3E;Building+Responsive+UIs...;Architecting+Data+Pipelines...;Optimizing+Relational+Schemas...;" alt="Terminal Typewriter" />
 
   <p align="center">
-    <strong>Computer Engineering Graduate @ RTU and Aspiring Data Specialist</strong> • Software Development | Data Analysis & Engineering | System Infrastructure
+    <strong>Computer Engineering Graduate @ RTU and Aspiring Data Specialist</strong> <br /> Software Development | Data Analysis & Engineering | System Infrastructure
   </p>
 
   <p align="center">
