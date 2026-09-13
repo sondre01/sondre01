@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=61AFEF&center=true&vCenter=true&width=700&height=70&lines=%3C+KHIN+ANDREI+GAMBOA+%2F%3E;Ingesting+Telemetry+Streams...;Optimizing+Relational+Schemas...;" alt="Terminal Typewriter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=61AFEF&center=true&vCenter=true&width=700&height=70&lines=%3C+KHIN+ANDREI+GAMBOA+%2F%3E;Building+Responsive+UIs...;Architecting+Data+Pipelines...;Optimizing+Relational+Schemas...;" alt="Terminal Typewriter" />
 
   <p align="center">
-    <strong>Computer Engineering @ RTU</strong> • Data Engineering & Predictive AI
+    <strong>Computer Engineering @ RTU</strong> • UI/UX Development & Data Architecture
   </p>
 
   <p align="center">
@@ -16,15 +16,22 @@
 
 ### System & Core Architecture
 
-I specialize in architecting resilient data pipelines, optimizing relational database structures, and building reliable backend layers connecting physical hardware edge-nodes directly to cloud ecosystems.
+I specialize in designing intuitive user interfaces, architecting resilient data pipelines, and building reliable backend layers that connect physical hardware directly to cloud ecosystems. My approach bridges the gap between clean, responsive frontend experiences and highly optimized relational database structures.
 
-* **Core Focus:** Data Engineering, Schema Design, ETL/ELT, and Scripting Automation.
+* **Core Focus:** UI/UX Development, Data Engineering, Schema Design, and Scripting Automation.
 * **Location:** Pasig City, Philippines
 
 ---
 
 ### The Technical Ecosystem
 *Sleek, interactive dark-mode icons grouped by architectural layers with dynamic hover animations.*
+
+#### Languages & Web Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,js,html,css,react,nodejs,java&theme=dark" alt="Languages Stack" />
+  </a>
+</p>
 
 #### Relational Infrastructure & Cloud Warehousing
 <p align="center">
@@ -33,17 +40,10 @@ I specialize in architecting resilient data pipelines, optimizing relational dat
   </a>
 </p>
 
-#### System Languages & Scripting Engines
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nodejs,js,java,cs,bash&theme=dark" alt="Languages Stack" />
-  </a>
-</p>
-
 #### Platforms, DevOps & Routing Pipelines
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,vercel,docker,linux,githubactions&theme=dark" alt="DevOps Stack" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,powershell,bash,vercel&theme=dark" alt="DevOps Stack" />
   </a>
 </p>
 
@@ -51,23 +51,26 @@ I specialize in architecting resilient data pipelines, optimizing relational dat
 
 ### Production Highlights
 
-#### **Vital Sign Sensor Kiosk with AI & IoT (Capstone Thesis)**
-* **Database Optimization:** Architected backend relational database schemas to securely ingest real-time telemetry data streams from 4 embedded sensors, minimizing latency under high data load.
-* **AI & Predictive Modeling:** Trained and deployed specialized machine learning algorithms for medical anomaly detection and predictive health analysis.
-* **Pipeline Architecture:** Authored end-to-end data communication workflows bridging hardware edge nodes directly to a centralized web application.
+#### **Four-in-One Vital Sign Sensor Kiosk with AI & IoT (Capstone Project)**[cite: 1]
+* **System Design & UI/UX Development:** Authored full-stack architectural blueprints and built responsive UI interfaces in React.js[cite: 1].
+* **Backend Architecture:** Engineered a 3-tier backend service using Python (Flask) and MySQL[cite: 1].
+* **Pipeline Integration:** Built RESTful APIs and serial data pipelines to synchronize real-time telemetry across 5 biomedical sensors with sub-second response times[cite: 1].
+* **AI Modeling:** Designed a multi-agent risk assessment engine using Pandas and XGBoost[cite: 1], cross-referencing inputs with YOLOv11 computer vision models to automate pre-measurement compliance and physiological anomaly detection[cite: 1].
+* **DevOps Validation:** Implemented secure remote access via Tailscale mesh VPN and validated endpoints using PyTest under ISO/IEC 25010 standards[cite: 1].
 
-#### **IT Operations & QA Intern (@ Staff Domain PH)**
-* **Data Migration:** Spearheaded the migration and validation of legacy Excel tracking logs into a centralized relational system to ensure data transparency.
-* **Automation:** Automated environment configurations and system diagnostics using PowerShell scripts.
-* **Asset Integrity:** Conducted functional QA and issue tracking for an IT Management System handling 5,000+ technical assets.
+#### **IT Administrator and Operation Intern (@ Staff Domain)**[cite: 1]
+* **Database Migration & Asset Architecture:** Spearheaded the transition from legacy spreadsheets to a centralized ITMS database managing 20,000+ assets[cite: 1]. This initiative enforced schema validation and cut onboarding provisioning times by 80%[cite: 1].
+* **Systems QA & DevOps:** Executed functional QA testing and bug verification for Snipe-IT[cite: 1], collaborating to track defect lifecycles in Jira to enhance platform stability[cite: 1].
+* **Process Automation:** Developed automation scripts using PowerShell and Command Prompt to streamline workstation diagnostic routines and remote system configurations[cite: 1].
 
 ---
 
 ### Certifications
 
-* **Associate Data Engineer in SQL** (*DataCamp*) — Relational database infrastructure design, multi-table analytics pipelines, Snowflake, and PostgreSQL.
-* **Data Fundamentals** (*IBM SkillBuild / TESDA*) — Data lifecycle management and dashboarding inside IBM Watson Studio.
-* **Python Essentials 1** (*Cisco*) — Automation, logical control flows, and structural data manipulation.
+* **Associate Data Engineer in SQL** (*DataCamp*) — Relational database design, Star Schema architecture, Snowflake data warehousing, indexing, and scalable ETL pipelines[cite: 1].
+* **Associate Data Analyst in SQL** (*DataCamp*) — Advanced PostgreSQL querying, window functions, and analytics transformation[cite: 1].
+* **Data Fundamentals** (*IBM SkillsBuild*) — Enterprise data lifecycles, database architectures, data hygiene/cleansing protocols, and predictive analytics reporting[cite: 1].
+* **Python Essentials 1** (*Cisco Networking Academy*) — Procedural logic, modular functions, complex collections, control algorithms, and exception handling routines[cite: 1].
 
 ---
 
@@ -78,5 +81,3 @@ I specialize in architecting resilient data pipelines, optimizing relational dat
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sondre01&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
-
----
