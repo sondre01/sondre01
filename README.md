@@ -2,83 +2,81 @@
   <h1 align="center">&lt; KHIN ANDREI GAMBOA /&gt;</h1>
 
   <p align="center">
-    <strong>Computer Engineering Graduate and Aspiring Data Specialist</strong> <br /> Software Development | Data Analysis & Engineering | System Infrastructure
+    <strong>Software Engineer & Data Specialist</strong> <br /> 
+    Full-Stack Web Development | Data Engineering & Analytics | Cloud Infrastructure
   </p>
 
   <p align="center">
-  <a href="https://linkedin.com/in/khinandreigamboa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gamboa.khinandrei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://facebook.com/khinandreigamboa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/khinandreigamboa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
+    <a href="https://linkedin.com/in/khinandreigamboa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:gamboa.khinandrei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://facebook.com/khinandreigamboa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="https://instagram.com/khinandreigamboa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
 </div>
 
 ---
 
-### System & Core Architecture
+### System Architecture & Engineering Focus
 
-I specialize in designing intuitive user interfaces, architecting resilient data pipelines, and building reliable backend layers that connect physical hardware directly to cloud ecosystems. My approach bridges the gap between clean, responsive frontend experiences and highly optimized relational database structures.
+I build end-to-end software solutions and resilient data pipelines. My engineering practice connects responsive, modern frontend applications to high-throughput backend services, optimized relational data models, and cloud infrastructure.
 
-* **Core Focus:** UI/UX Development, Data Engineering, Schema Design, and Scripting Automation.
+* **Dual Disciplines:** Full-Stack Web Development (React, Node.js, Python) & Data Engineering (Star Schema, ETL/ELT, Warehousing).
+* **Core Competencies:** API Design, Relational Database Optimization, Systems Automation, and Applied Machine Learning.
 * **Location:** Pasig City, Philippines
 
 ---
 
-### The Technical Ecosystem
-*Sleek, interactive dark-mode icons grouped by architectural layers with dynamic hover animations.*
+### Technical Ecosystem
 
-#### Languages & Web Frameworks
+#### Software & Web Engineering
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,html,css,react,nodejs,java&theme=dark" alt="Languages Stack" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,py,cs,java&theme=dark" alt="Software Engineering Stack" />
   </a>
 </p>
 
-#### Relational Infrastructure & Cloud Warehousing
+#### Data Engineering & Database Architecture
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,snowflake&theme=dark" alt="Databases Stack" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,snowflake&theme=dark" alt="Data & Database Stack" />
   </a>
 </p>
 
-#### Platforms, DevOps & Routing Pipelines
+#### Cloud, DevOps & Scripting
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,powershell,bash,vercel&theme=dark" alt="DevOps Stack" />
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,powershell,vercel&theme=dark" alt="Cloud & DevOps Stack" />
   </a>
 </p>
 
 ---
 
-### Production Highlights
+### Featured Production Work
 
 #### **Four-in-One Vital Sign Sensor Kiosk with AI & IoT (Capstone Project)**
-* **System Design & UI/UX Development:** Authored full-stack architectural blueprints and built responsive UI interfaces in React.js.
-* **Backend Architecture:** Engineered a 3-tier backend service using Python (Flask) and MySQL.
-* **Pipeline Integration:** Built RESTful APIs and serial data pipelines to synchronize real-time telemetry across 5 biomedical sensors with sub-second response times.
-* **AI Modeling:** Designed a multi-agent risk assessment engine using Pandas and XGBoost, cross-referencing inputs with YOLOv11 computer vision models to automate pre-measurement compliance and physiological anomaly detection.
-* **DevOps Validation:** Implemented secure remote access via Tailscale mesh VPN and validated endpoints using PyTest under ISO/IEC 25010 standards.
+* **Full-Stack Application:** Designed and deployed responsive user interfaces in React.js integrated with a modular Python (Flask) REST API backend.
+* **Real-Time Data Ingestion:** Developed multi-channel serial data pipelines synchronizing telemetry across 5 hardware biomedical sensors with sub-second response times.
+* **Relational Schema Design:** Structured transactional MySQL databases ensuring referential integrity and optimized telemetry query speeds.
+* **Predictive ML Pipelines:** Implemented risk assessment logic using Pandas and XGBoost alongside computer vision (YOLOv11) to validate measurement integrity and physiological trends.
+* **DevOps & Verification:** Configured mesh networking via Tailscale VPN and instituted automated test suites via PyTest adhering to ISO/IEC 25010 benchmarks.
 
-#### **IT Administrator and Operation Intern (@ Staff Domain)**
-* **Database Migration & Asset Architecture:** Spearheaded the transition from legacy spreadsheets to a centralized ITMS database managing 20,000+ assets. This initiative enforced schema validation and cut onboarding provisioning times by 80%.
-* **Systems QA & DevOps:** Executed functional QA testing and bug verification for Snipe-IT, collaborating to track defect lifecycles in Jira to enhance platform stability.
-* **Process Automation:** Developed automation scripts using PowerShell and Command Prompt to streamline workstation diagnostic routines and remote system configurations.
+#### **IT Administrator and Operations Intern (@ Staff Domain)**
+* **Database Architecture & Migration:** Engineered the transition from disparate spreadsheets to a relational ITMS database managing 20,000+ assets, reducing provisioning cycles by 80%.
+* **QA & Systems Integration:** Executed end-to-end test cases and verification workflows for platform features in Snipe-IT, tracking system lifecycle issues via Jira.
+* **Workflow Automation:** Built PowerShell and Shell automation routines to standardize endpoint configurations and reduce manual IT diagnostic overhead.
 
 ---
 
 ### Certifications
 
-* **Associate Data Engineer in SQL** (*DataCamp*) — Relational database design, Star Schema architecture, Snowflake data warehousing, indexing, and scalable ETL pipelines.
-* **Associate Data Analyst in SQL** (*DataCamp*) — Advanced PostgreSQL querying, window functions, and analytics transformation.
-* **Data Fundamentals** (*IBM SkillsBuild*) — Enterprise data lifecycles, database architectures, data hygiene/cleansing protocols, and predictive analytics reporting.
-* **Python Essentials 1** (*Cisco Networking Academy*) — Procedural logic, modular functions, complex collections, control algorithms, and exception handling routines.
+* **Associate Data Engineer in SQL** (*DataCamp*) — Schema modeling, Star Schema design, Snowflake data warehousing, indexing strategies, and ETL/ELT pipelines.
+* **Associate Data Analyst in SQL** (*DataCamp*) — Advanced querying, window analytical functions, and data transformations.
+* **Data Fundamentals** (*IBM SkillsBuild*) — Enterprise data architectures, data hygiene protocols, and analytics lifecycles.
+* **Python Essentials 1** (*Cisco Networking Academy*) — Object-oriented patterns, control structures, modular design, and robust exception handling.
 
 ---
 
-### System Analytics
-
-<br/>
+### Engineering Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sondre01&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
