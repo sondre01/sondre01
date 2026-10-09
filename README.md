@@ -68,7 +68,7 @@ Computer Engineering graduate specializing in resilient data pipelines, scalable
 * **Predictive Validation:** Applied Pandas, XGBoost, and YOLO models to evaluate signal reliability and assist preliminary assessments.
 * **Intellectual Property:** Registered with the Bureau of Copyright and Related Rights (IPO Philippines).
 
-#### **Information Technology Intern (@ Staff Domain)**
+#### **Information Technology Intern (Staff Domain)**
 * **Database Migration:** Managed the migration of 20,000+ hardware and software assets from spreadsheets into a structured relational ITMS database.
 * **Quality Assurance:** Handled regression and feature verification suites inside Jira and Snipe-IT.
 * **Scripting:** Deployed PowerShell automation scripts to eliminate repetitive endpoint audits.
