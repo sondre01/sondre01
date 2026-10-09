@@ -2,8 +2,8 @@
   <h1 align="center">&lt; KHIN ANDREI GAMBOA /&gt;</h1>
 
   <p align="center">
-    <strong>Software Engineer & Data Specialist</strong> <br /> 
-    Full-Stack Web Development | Data Engineering & Analytics | Cloud Infrastructure
+    <strong>Computer Engineer | Data Engineer & Full-Stack Developer</strong> <br /> 
+    Automated ETL/ELT Pipelines | Relational & Cloud Warehousing | Full-Stack Applications
   </p>
 
   <p align="center">
@@ -18,10 +18,10 @@
 
 ### System Architecture & Engineering Focus
 
-I build end-to-end software solutions and resilient data pipelines. My engineering practice connects responsive, modern frontend applications to high-throughput backend services, optimized relational data models, and cloud infrastructure.
+Computer Engineering graduate specializing in resilient data pipelines, scalable full-stack applications, and automated workflows. My work focuses on connecting reliable backends and analytical data stores with intuitive interfaces and containerized infrastructure.
 
-* **Dual Disciplines:** Full-Stack Web Development (React, Node.js, Python) & Data Engineering (Star Schema, ETL/ELT, Warehousing).
-* **Core Competencies:** API Design, Relational Database Optimization, Systems Automation, and Applied Machine Learning.
+* **Dual Disciplines:** Data Engineering (PostgreSQL, Supabase, Snowflake, Docker) & Full-Stack Development (Python/Flask/FastAPI, React.js, TypeScript).
+* **Core Competencies:** Automated Web Scraping & ETL, Relational Data Modeling, API Integration, Edge Telemetry, and Applied Machine Learning.
 * **Location:** Pasig City, Philippines
 
 ---
@@ -31,21 +31,21 @@ I build end-to-end software solutions and resilient data pipelines. My engineeri
 #### Software & Web Engineering
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,py,cs,java&theme=dark" alt="Software Engineering Stack" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,fastapi,flask,html,css,cs,cpp&theme=dark" alt="Software Engineering Stack" />
   </a>
 </p>
 
 #### Data Engineering & Database Architecture
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,snowflake&theme=dark" alt="Data & Database Stack" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,snowflake,dbeaver&theme=dark" alt="Data & Database Stack" />
   </a>
 </p>
 
-#### Cloud, DevOps & Scripting
+#### Cloud, DevOps & Analytics Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,powershell,vercel&theme=dark" alt="Cloud & DevOps Stack" />
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,bash,powershell,vercel&theme=dark" alt="Cloud & DevOps Stack" />
   </a>
 </p>
 
@@ -53,26 +53,35 @@ I build end-to-end software solutions and resilient data pipelines. My engineeri
 
 ### Featured Production Work
 
-#### **Four-in-One Vital Sign Sensor Kiosk with AI & IoT (Capstone Project)**
-* **Full-Stack Application:** Designed and deployed responsive user interfaces in React.js integrated with a modular Python (Flask) REST API backend.
-* **Real-Time Data Ingestion:** Developed multi-channel serial data pipelines synchronizing telemetry across 5 hardware biomedical sensors with sub-second response times.
-* **Relational Schema Design:** Structured transactional MySQL databases ensuring referential integrity and optimized telemetry query speeds.
-* **Predictive ML Pipelines:** Implemented risk assessment logic using Pandas and XGBoost alongside computer vision (YOLOv11) to validate measurement integrity and physiological trends.
-* **DevOps & Verification:** Configured mesh networking via Tailscale VPN and instituted automated test suites via PyTest adhering to ISO/IEC 25010 benchmarks.
+#### **Khin Early Bird — Automated Job Market Aggregator & Pipeline**
+* **Automated Extraction:** Built a scheduled Python data pipeline using GitHub Actions to scrape and curate verified tech openings across multiple job boards.
+* **Cloud Storage & Filtering:** Persisted validated job records into Supabase (PostgreSQL) with automated deduplication and schema validation.
+* **AI Matching:** Integrated Gemini API routines to parse descriptions, extract skill requirements, and surface high-match roles.
 
-#### **IT Administrator and Operations Intern (@ Staff Domain)**
-* **Database Architecture & Migration:** Engineered the transition from disparate spreadsheets to a relational ITMS database managing 20,000+ assets, reducing provisioning cycles by 80%.
-* **QA & Systems Integration:** Executed end-to-end test cases and verification workflows for platform features in Snipe-IT, tracking system lifecycle issues via Jira.
-* **Workflow Automation:** Built PowerShell and Shell automation routines to standardize endpoint configurations and reduce manual IT diagnostic overhead.
+#### **Automated Social Media ETL Pipeline**
+* **Containerized Ingestion:** Built an end-to-end batch ingestion engine in Docker running scheduled Python/Pandas workflows.
+* **Storage & Integrity:** Modeled star-schema tables in PostgreSQL, optimizing analytical indexing and historical trend reporting.
+
+#### **Four-in-One Vital Sign Kiosk with AI & IoT (FOVB-AIoT Capstone)**
+* **Full-Stack Application:** Delivered a clinic-ready kiosk running a React.js interface backed by a modular Python (Flask) REST API.
+* **Edge Telemetry:** Synchronized serial data ingestion across 5 biomedical sensors with sub-second feedback loops.
+* **Predictive Validation:** Applied Pandas, XGBoost, and YOLO models to evaluate signal reliability and assist preliminary assessments.
+* **Intellectual Property:** Registered with the Bureau of Copyright and Related Rights (IPO Philippines).
+
+#### **IT Operations & QA Intern (@ Staff Domain)**
+* **Database Migration:** Managed the migration of 20,000+ hardware and software assets from spreadsheets into a structured relational ITMS database.
+* **Quality Assurance:** Handled regression and feature verification suites inside Jira and Snipe-IT.
+* **Scripting:** Deployed PowerShell automation scripts to eliminate repetitive endpoint audits.
 
 ---
 
-### Certifications
+### Certifications & Education
 
-* **Associate Data Engineer in SQL** (*DataCamp*) — Schema modeling, Star Schema design, Snowflake data warehousing, indexing strategies, and ETL/ELT pipelines.
-* **Associate Data Analyst in SQL** (*DataCamp*) — Advanced querying, window analytical functions, and data transformations.
-* **Data Fundamentals** (*IBM SkillsBuild*) — Enterprise data architectures, data hygiene protocols, and analytics lifecycles.
-* **Python Essentials 1** (*Cisco Networking Academy*) — Object-oriented patterns, control structures, modular design, and robust exception handling.
+* **B.S. in Computer Engineering** — Rizal Technological University
+* **Associate Data Engineer in SQL** (*DataCamp*) — Schema modeling, Star Schema design, Snowflake data warehousing, and ETL/ELT pipelines.
+* **Associate Data Analyst in SQL** (*DataCamp*) — Analytical window functions, data cleansing, and transformations.
+* **Data Fundamentals** (*IBM SkillsBuild*) — Enterprise architecture, governance, and data lifecycle management.
+* **Python Essentials 1** (*Cisco Networking Academy*) — Modular scripting, OOP patterns, and defensive programming.
 
 ---
 
